@@ -1,3 +1,15 @@
+# Casper-Anja
+
+Matt's tiny patch to the default Ghost theme for Anja's Ghost blog.
+
+Future Matt: You'll want to merge in further updates to the underlying blog.
+
+When you do, try running `apply-patch.sh` from this repo directory. If you're lucky, it'll just work, and you'll wind up with Finder showing you a compiled Casper theme, `casper-anja.zip`,  suitable to upload to Anja's Casper blog.
+
+If you're not lucky, well, it'll at least remind you what you need to get working.
+
+----
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
